@@ -8,15 +8,20 @@ This is the bare minimum solution which is expected for the problem. You can add
 Make sure your code is readable and maintainable and preferably object oriented. It should be modular and extensible, to add new features if needed.
 
 Sample input and output:
+
 No. of players for each team: 5
+
 No. of overs: 2
+
 Batting Order for team 1:
 P1
 P2
 P3
 P4
 P5
+
 Over 1:
+
 1
 1
 1
