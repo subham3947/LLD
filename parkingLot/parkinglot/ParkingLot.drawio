@@ -1,1 +1,172 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T07:48:09.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vdFbQnLxOfmEcdlKDZLs" version="20.8.20" type="device"><diagram name="Page-1" id="M7QRlVOAx5ox1eZhLzsj">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</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="M7QRlVOAx5ox1eZhLzsj">
+        <mxGraphModel dx="394" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Vehicle&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ type: String&lt;br&gt;+ licensePlateNumber: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ entryTime: Timestamp&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getType(): String&lt;br&gt;+ getLicensePlate(): String&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getEntryTime(): Timestamp&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="90" width="230" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="330" as="sourcePoint"/>
+                        <mxPoint x="520" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bus&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="360" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bike&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="360" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Car&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry y="360" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="E07Ek_t-O5pbKm-cFLmL-6" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="390" as="sourcePoint"/>
+                        <mxPoint x="280" y="330" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="E07Ek_t-O5pbKm-cFLmL-5" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="520" y="330" as="sourcePoint"/>
+                        <mxPoint x="290" y="340" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.409;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="E07Ek_t-O5pbKm-cFLmL-7" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="380" as="sourcePoint"/>
+                        <mxPoint x="41" y="330" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ParkingLot&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;Map&amp;lt;String, Integer&amp;gt; availableSpots&lt;br&gt;Map&amp;lt;String, List&amp;lt;Vehicle&amp;gt;&amp;gt; parkedVehicleMap&lt;br&gt;Map&amp;lt;String, Vehicle&amp;gt; vehicleMap&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ park()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ unpark()&lt;br&gt;+ getParkedVehiclesByCategory()&lt;br&gt;+ getAllParkedVehicles()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="90" width="260" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-22" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="E07Ek_t-O5pbKm-cFLmL-2" target="E07Ek_t-O5pbKm-cFLmL-18" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="460" y="120" as="sourcePoint"/>
+                        <mxPoint x="400" y="175" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ParkingStaff&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getName(): String&lt;br&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1380" y="320" width="190" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E07Ek_t-O5pbKm-cFLmL-26" target="9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1185" y="750"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-26" value="ParkingStaffAdmin&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-align: left;&quot;&gt;+ handleParking(): void&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;+ handleUnparking() : void&lt;br&gt;&lt;/span&gt;+ addToWaitingList(Vehicle) : void&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;+ notify(String) : void&lt;/span&gt;" style="html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1090" y="310" width="190" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ParkingService&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ isParkingSpotAvailable(String) : boolean&lt;br&gt;+ parkVehicle(Vehicle) : void&lt;br&gt;+ unparkVehicle(Vehicle) : void&lt;br&gt;+ calculateParkingFees(Vehicle) : double&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1060" y="90" width="230" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-35" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="E07Ek_t-O5pbKm-cFLmL-33" edge="1">
+                    <mxGeometry x="-1" relative="1" as="geometry">
+                        <mxPoint x="1175" y="310" as="sourcePoint"/>
+                        <mxPoint x="1110" y="240" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1175" y="240"/>
+                            <mxPoint x="1175" y="240"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-36" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="E07Ek_t-O5pbKm-cFLmL-35" connectable="0" vertex="1">
+                    <mxGeometry x="-1" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-40" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;exitX=-0.021;exitY=0.562;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E07Ek_t-O5pbKm-cFLmL-33" target="E07Ek_t-O5pbKm-cFLmL-18" edge="1">
+                    <mxGeometry x="-1" relative="1" as="geometry">
+                        <mxPoint x="870" y="260" as="sourcePoint"/>
+                        <mxPoint x="910" y="180" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="930" y="163"/>
+                            <mxPoint x="930" y="165"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="E07Ek_t-O5pbKm-cFLmL-41" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="E07Ek_t-O5pbKm-cFLmL-40" connectable="0" vertex="1">
+                    <mxGeometry x="-1" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="E07Ek_t-O5pbKm-cFLmL-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="285" y="330" as="sourcePoint"/>
+                        <mxPoint x="310" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.026;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="E07Ek_t-O5pbKm-cFLmL-23" target="E07Ek_t-O5pbKm-cFLmL-26" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="1260" y="370" as="sourcePoint"/>
+                        <mxPoint x="1380" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="«interface»&lt;br&gt;&lt;b&gt;ParkingObservable&lt;/b&gt;" style="html=1;" parent="1" vertex="1">
+                    <mxGeometry x="775" y="350" width="115" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="1175" y="640" as="sourcePoint"/>
+                        <mxPoint x="830" y="700" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="830" y="690"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;BikeObservable&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="720" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;BusObservable&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="1010" y="720" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="702" width="480" height="8" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;CarObservable&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="760" y="720" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="1080" y="710" width="10" height="9" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="699" width="10" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="E07Ek_t-O5pbKm-cFLmL-26" edge="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="885" y="374.5" as="sourcePoint"/>
+                        <mxPoint x="1045" y="374.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;BikeObserver&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="890" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;CarObserver&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="760" y="890" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;BusObserver&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="1010" y="880" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="«interface»&lt;br&gt;&lt;b&gt;ParkingObserver&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+                    <mxGeometry x="772.5" y="1050" width="115" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="21">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="830" y="970" as="sourcePoint"/>
+                        <mxPoint x="880" y="830" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="580" y="970" as="sourcePoint"/>
+                        <mxPoint x="1090" y="960" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
