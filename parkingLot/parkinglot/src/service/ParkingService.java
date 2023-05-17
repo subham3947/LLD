@@ -4,7 +4,7 @@ import entity.Vehicle;
 
 public class ParkingService {
     
-    public boolean isParkingAvailable(){
+    public boolean isParkingAvailable(Vehicle vehicle){
 
         return false;
     }

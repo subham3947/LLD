@@ -19,7 +19,11 @@ public class ParkingStaffAdmin extends ParkingStaff{
         parkingLot = ParkingLot.getInstance();
     }
 
-    public void handleParking(){
+    public void handleParking(Vehicle vehicle){
+
+        
+
+
 
     }
 

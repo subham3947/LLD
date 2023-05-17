@@ -1,0 +1,41 @@
+
+Assumptions:-
+
+    1. User can have multiple accounts. Each account will have one ATM card.
+        class User{
+            List<Account> accounts;
+            Map<Card, Account>
+        }
+        class Account{
+            String accountNumber;
+            String accountType;
+            double accountBalance;
+            Card card;
+        }
+        class Card{
+            String cardNumber;
+            String cvv;
+            String pin;
+        }
+
+Functionality:-
+        1. User swipes the card and the card number is used to map to the related account after authentication via pin . Then all the operations are performed 
+                on that particular account.
+        2. Account will have balance and transaction history.
+                class Transaction{
+                    String id;
+                    String txnType;  //withdraw or deposit or checkBalance or changePin
+                    Timestamp timestamp;
+                    double amount;
+                    boolean isSuccessful;
+                }
+
+            Can be stored in a map like Map<Account, List<Transactions>>?
+
+            Service class will verify whether the user has sufficient account balance or atm has sufficient cash only for withdrawing.
+            If the above conditions satisfies then the transaction would be marked as successful. And the transaction would be addd to tansaction history in DAO 
+            and account balance should be updated.
+
+        3. ATM will hve a maximum cash capacity.
+            On withdrawals Service class will check the available ATM cash before dispnsing cash to make sure the user doesnt withdraws more cash than the available
+            amount.
