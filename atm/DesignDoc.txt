@@ -39,3 +39,5 @@ Functionality:-
         3. ATM will hve a maximum cash capacity.
             On withdrawals Service class will check the available ATM cash before dispnsing cash to make sure the user doesnt withdraws more cash than the available
             amount.
+
+    
