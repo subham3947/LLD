@@ -1,0 +1,40 @@
+Design and implement an online marketplace for buying and selling used cars.
+
+Requirements:
+
+Users should be able to browse available used cars listed for sale on the platform.
+Each car listing should include details such as make, model, year, mileage, price, and contact information of the seller.
+Users should be able to search for cars based on various criteria, such as make, model, price range, mileage range, etc.
+Sellers should be able to create car listings by providing all relevant details of the car they want to sell.
+Sellers should have the ability to mark a car listing as sold once the sale is finalized.
+Users should be able to save cars as favorites for future reference.
+Users should be able to filter and sort car listings based on various parameters, such as price, mileage, location, etc.
+
+
+Car{
+    String make;
+    String model;
+    int seats;
+    String year;
+    double mileage;
+    int price;
+    Transmission transmission;
+    CarType carType;
+    Engine engine;
+    FuelType fuelType;
+}
+
+User{
+    String name;
+    String phoneNumber;
+}
+
+
+Seller{
+    String name;
+    List<Car> listedCars;
+}
+Buyer{
+    String name;
+    List<Car> favoriteCars;
+}
