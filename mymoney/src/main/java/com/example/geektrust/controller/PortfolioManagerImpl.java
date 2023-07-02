@@ -9,6 +9,8 @@ import com.example.geektrust.service.PortfolioManagingService;
 import com.example.geektrust.service.PortfolioManagingServiceImpl;
 
 public class PortfolioManagerImpl implements PortfolioManager{
+
+    public static final int ZERO = 0, TWO = 2, THREE = 3, FOUR = 4, ONE = 1, FIVE = 5;
     Portfolio portfolio;
     PortfolioManagingService portfolioManagingService;
 
@@ -21,27 +23,27 @@ public class PortfolioManagerImpl implements PortfolioManager{
     public void processOrder(String orderString)  {
 
         String[] orderDetails = orderString.split(" ");
-        String op = orderDetails[0];
+        String op = orderDetails[ZERO];
         switch(Operations.valueOf(op)) {
 
             case ALLOCATE:
-                allocate(Integer.parseInt(orderDetails[1]), Integer.parseInt(orderDetails[2]),
-                        Integer.parseInt(orderDetails[3]));
+                allocate(Integer.parseInt(orderDetails[ONE]), Integer.parseInt(orderDetails[TWO]),
+                        Integer.parseInt(orderDetails[THREE]));
                 break;
             case SIP:
-                sip(Integer.parseInt(orderDetails[1]), Integer.parseInt(orderDetails[2]),
-                        Integer.parseInt(orderDetails[3]));
+                sip(Integer.parseInt(orderDetails[ONE]), Integer.parseInt(orderDetails[TWO]),
+                        Integer.parseInt(orderDetails[THREE]));
                 break;
             case CHANGE:
-                String equityPercent = orderDetails[1],debtPercent = orderDetails[2], goldPercent = orderDetails[3];
+                String equityPercent = orderDetails[ONE],debtPercent = orderDetails[TWO], goldPercent = orderDetails[THREE];
 
-                change(Double.parseDouble(equityPercent.substring(0, equityPercent.length() - 1)),
-                        Double.parseDouble(debtPercent.substring(0, debtPercent.length() - 1)),
-                        Double.parseDouble(goldPercent.substring(0, goldPercent.length() - 1)),
-                        orderDetails[4]);
+                change(Double.parseDouble(equityPercent.substring(ZERO, equityPercent.length() - ONE)),
+                        Double.parseDouble(debtPercent.substring(ZERO, debtPercent.length() - ONE)),
+                        Double.parseDouble(goldPercent.substring(ZERO, goldPercent.length() - ONE)),
+                        orderDetails[FOUR]);
                 break;
             case BALANCE:
-                printBalance(orderDetails[1]);
+                printBalance(orderDetails[ONE]);
                 break;
             case REBALANCE:
                 getLastRebalancedAmount();

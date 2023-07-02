@@ -7,7 +7,7 @@ import java.util.Map;
 
 public class PortfolioManagingServiceImpl implements  PortfolioManagingService{
 
-    public static final int JANUARY = 1, JUNE = 6, DECEMBER = 12;
+    public static final int JANUARY = 1, JUNE = 6, DECEMBER = 12, HUNDRED = 100, ONE = 1;
     @Override
     public Portfolio initializePortfolio(int equityAmount, int debtAmount, int goldAmount) {
         int totalAmount = equityAmount + debtAmount + goldAmount;
@@ -18,7 +18,7 @@ public class PortfolioManagingServiceImpl implements  PortfolioManagingService{
     }
 
     private int getWeightage(int investmentAmount, int totalAmount) {
-        return (investmentAmount  * 100) / totalAmount;
+        return (investmentAmount  * HUNDRED) / totalAmount;
     }
 
     @Override
@@ -49,11 +49,11 @@ public class PortfolioManagingServiceImpl implements  PortfolioManagingService{
     }
 
     private int adjustAssetAmountByChangePercentage(int assetAmount, double changePercentage) {
-        return (int) (Math.floor(assetAmount + ( changePercentage * assetAmount)/ 100) );
+        return (int) (Math.floor(assetAmount + ( changePercentage * assetAmount)/ HUNDRED) );
     }
 
     private int getAmountByWeightage(int assetAmount, double weightage) {
-        return (int) (Math.floor( ( weightage * assetAmount)/ 100) );
+        return (int) (Math.floor( ( weightage * assetAmount)/ HUNDRED) );
     }
 
     private void rebalance(Portfolio portfolio, Balance currentMonthBalance) {
@@ -65,7 +65,7 @@ public class PortfolioManagingServiceImpl implements  PortfolioManagingService{
 
     private void addSipToEachAsset(Portfolio portfolio, int month) {
         Map<Integer, Balance> balanceMap = portfolio.getMonthlyBalanceMap();
-        Balance previousMonth = balanceMap.get(month - 1);
+        Balance previousMonth = balanceMap.get(month - ONE);
         Balance currentMonth = new Balance (previousMonth.getEquityAmount() + portfolio.getEquity().getSipAmount(),
                 previousMonth.getDebtAmount() + portfolio.getDebt().getSipAmount(),
                 previousMonth.getGoldAmount() + portfolio.getGold().getSipAmount());

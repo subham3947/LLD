@@ -1,10 +1,20 @@
 package com.example.geektrust.entity;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.Objects;
 
 public class Asset {
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Asset asset = (Asset) o;
+        return initialInvestment == asset.initialInvestment && initialWeightage == asset.initialWeightage && sipAmount == asset.sipAmount;
+    }
 
+    @Override
+    public int hashCode() {
+        return Objects.hash(initialInvestment, initialWeightage, sipAmount);
+    }
 
     int initialInvestment;
     int initialWeightage;
