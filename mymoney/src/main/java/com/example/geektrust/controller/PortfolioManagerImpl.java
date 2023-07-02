@@ -10,7 +10,7 @@ import com.example.geektrust.service.PortfolioManagingServiceImpl;
 
 public class PortfolioManagerImpl implements PortfolioManager{
 
-    public static final int ZERO = 0, TWO = 2, THREE = 3, FOUR = 4, ONE = 1, FIVE = 5;
+    public static final int ZERO = 0, TWO = 2, THREE = 3, FOUR = 4, ONE = 1;
     Portfolio portfolio;
     PortfolioManagingService portfolioManagingService;
 
