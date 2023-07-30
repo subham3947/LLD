@@ -9,12 +9,12 @@
         <module name="match" />
         <module name="geektrust (2)" />
         <module name="geektrust (3)" />
-        <module name="chess" />
         <module name="doremi" />
         <module name="geektrust (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="chess" target="19" />
       <module name="geektrust" target="1.8" />
     </bytecodeTargetLevel>
   </component>
