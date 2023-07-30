@@ -28,7 +28,7 @@ public class LoanProcessorImpl implements  LoanProcessor{
 
     private TreeMap<Integer, Integer> getMonthlyLedger(int years) {
 
-        return IntStream.rangeClosed(1, years * NUMBER_OF_MONTHS)
+        return IntStream.rangeClosed(0, years * NUMBER_OF_MONTHS)
                 .boxed()
                 .collect(Collectors.toMap(key -> key, value -> 0, (v1, v2) -> v2, TreeMap::new));
     }

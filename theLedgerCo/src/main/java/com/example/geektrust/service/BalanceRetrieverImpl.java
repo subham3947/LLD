@@ -19,10 +19,10 @@ public class BalanceRetrieverImpl implements BalanceRetriever {
     public Balance getBalance(int emiNumber, String userName, Loan loan) {
         Map<Integer, Integer> monthlyLedger = loan.getMonthlyLedger();
         int amountRepaid = 0;
-        if(emiNumber > 0){
+        //if(emiNumber > 0){
             emiPayment.calculateAllPendingEmi(loan, emiNumber);
-            amountRepaid = monthlyLedger.get(emiNumber);
-        }
+            amountRepaid = monthlyLedger.getOrDefault(emiNumber, 0);
+        //}
 
         int amountToBePaid = loan.getFinalAmount() - amountRepaid;
 

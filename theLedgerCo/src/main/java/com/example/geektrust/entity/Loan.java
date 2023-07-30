@@ -5,14 +5,14 @@ import java.util.Map;
 public class Loan {
 
     private String bankName;
-    private int principalAmount;
+    private final int principalAmount;
     private int amountToBeRepaid;
 
 
 
-    private int finalAmount;
-    private double rateOfInterest;
-    private int years;
+    private final int finalAmount;
+    private final double rateOfInterest;
+    private final int years;
     private int emiAmount;
     private Map<Integer, Integer> monthlyLedger;
 
@@ -38,9 +38,6 @@ public class Loan {
         return principalAmount;
     }
 
-    public void setPrincipalAmount(int principalAmount) {
-        this.principalAmount = principalAmount;
-    }
 
     public int getAmountToBeRepaid() {
         return amountToBeRepaid;
@@ -54,17 +51,11 @@ public class Loan {
         return rateOfInterest;
     }
 
-    public void setRateOfInterest(double rateOfInterest) {
-        this.rateOfInterest = rateOfInterest;
-    }
 
     public int getYears() {
         return years;
     }
 
-    public void setYears(int years) {
-        this.years = years;
-    }
 
     public int getEmiAmount() {
         return emiAmount;
@@ -86,8 +77,5 @@ public class Loan {
         return finalAmount;
     }
 
-    public void setFinalAmount(int finalAmount) {
-        this.finalAmount = finalAmount;
-    }
 
 }
